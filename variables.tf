@@ -3,6 +3,6 @@ variable "toto" {
   default = "toto"
 }
 
-variable "tata" {
+variable "tutu" {
   type    = string
 }
